@@ -1,7 +1,3 @@
-// Recerber valor do salário
-// Se menor que 500, então ajustar salário em 30%
-// Mostrar reajuste e mensagem de aprovação/reprovação
-
 #include <stdio.h>
 #include <string.h>
 

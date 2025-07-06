@@ -1,7 +1,3 @@
-// Receber salário bruto
-// Calcular e mostrar valor a receber
-// salario novo = salário bruto + gratificação - imposto 7% sob salário
-
 #include <stdio.h>
 #include <string.h>
 

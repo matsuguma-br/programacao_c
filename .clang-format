@@ -1,11 +1,9 @@
-BasedOnStyle: LLVM
-IndentWidth: 4
-UseTab: Never
-BraceWrapping:
-  AfterControlStatement: false
-  AfterFunction: false
-  AfterEnum: false
-  AfterStruct: false
-  AfterUnion: false
+BasedOnStyle: LLVM       # Pode ser: LLVM, Google, Chromium, Mozilla, WebKit, Microsoft
+IndentWidth: 4           # Tamanho da indentação (4 espaços)
+TabWidth: 4              # Tamanho do tab (se usar tabs)
+UseTab: Never            # Never = usa espaços, Always = usa tab
+ColumnLimit: 0          # Limite de colunas (linhas quebram depois disso)
+BreakBeforeBraces: Attach # Coloca chaves na linha de baixo (Allman) ou na mesma linha (Attach)
 AllowShortIfStatementsOnASingleLine: false
-ColumnLimit: 80
+AllowShortLoopsOnASingleLine: false
+SpaceBeforeParens: ControlStatements # Espaço antes do parênteses do if/for/while

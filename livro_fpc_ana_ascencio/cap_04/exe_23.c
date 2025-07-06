@@ -1,7 +1,3 @@
-// Receber:
-// Código do produto
-// Quantidade a ser comprada
-
 #include <stdio.h>
 
 // Estipular preço unitário

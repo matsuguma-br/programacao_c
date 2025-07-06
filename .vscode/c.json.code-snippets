@@ -1,0 +1,19 @@
+{
+  "Cabecalho C Felipe": {
+    "prefix": "cabecalhoC",
+    "body": [
+      "// ------------------------------------------------------------",
+      "// Nome: Felipe Ribeiro Matsuguma",
+      "// Autor: Felipe Ribeiro Matsuguma",
+      "// Data: ${CURRENT_YEAR}/${CURRENT_MONTH}/${CURRENT_DATE}",
+      "// Última atualização: ${CURRENT_YEAR}/${CURRENT_MONTH}/${CURRENT_DATE}",
+      "// Objetivo: ${1:Descreva o objetivo do programa}",
+      "// Curso: Engenharia de Software",
+      "// Versão: 1.0",
+      "// Observações:",
+      "// - ${2:Observações gerais}",
+      "// ------------------------------------------------------------"
+    ],
+    "description": "Modelo de cabeçalho para códigos C de Felipe"
+  }
+}

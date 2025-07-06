@@ -1,9 +1,3 @@
-// Receber quatro notas de alunos
-// Calcular média
-// Mostrar média
-// Mostrar mensagem 'aprovado' ou 'reprovado
-// Aprovação acima de 7.0
-
 #include <stdio.h>
 #include <string.h>
 

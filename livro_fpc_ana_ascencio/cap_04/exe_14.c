@@ -1,6 +1,3 @@
-// Receber o salário
-// Calcular e mostrar novo salário
-
 #include <stdio.h>
 
 float calc_novo_salario(float salario) {

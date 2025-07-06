@@ -1,7 +1,3 @@
-// Receber preco atual e código de um produto
-// Calcular valor do desconto e novo preco
-// Mostrar
-
 #include <stdio.h>
 
 float calc_desconto(float preco) {
